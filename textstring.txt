@@ -1,0 +1,16 @@
+Welcome to VISUALISE DATA. 
+
+  VISUALISE DATA is a simple tool that allows you to enter
+the input statistical data and view it in terms of graphics
+	and analyse it in a more understandable way.
+
+Instructions:
+
+1. Enter the number of entities that exist in the first box.
+
+2.Click on "GO"
+
+3.Enter the respective entity values.
+
+4.Then, select any available modes to view the data
+  in a more understandable graphical manner

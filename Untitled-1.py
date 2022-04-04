@@ -1,0 +1,1 @@
+print(eval('eval("print("lol")")'))
